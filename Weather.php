@@ -1,5 +1,6 @@
 <?php
 
+namespace Weather;
 
 class Weather {
 

@@ -1,0 +1,10 @@
+{
+  "name": "mathCodingClub/Weather",  
+  "autoload": {
+    "psr-4": {
+      "Weather\\": ""
+    }
+  },
+  "minimum-stability": "dev"
+}
+
